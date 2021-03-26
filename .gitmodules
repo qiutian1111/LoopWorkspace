@@ -1,43 +1,43 @@
 [submodule "Loop"]
 	path = Loop
-	url=https://github.com/ivalkou/Loop.git
+	url=https://github.sunflyer.cn/ivalkou/Loop.git
 	branch = freeaps
 [submodule "LoopKit"]
 	path = LoopKit
-	url = https://github.com/LoopKit/LoopKit.git
+	url = https://github.sunflyer.cn/LoopKit/LoopKit.git
 	branch = dev
 [submodule "CGMBLEKit"]
 	path = CGMBLEKit
-	url = https://github.com/LoopKit/CGMBLEKit.git
+	url = https://github.sunflyer.cn/LoopKit/CGMBLEKit.git
 	branch = dev
 [submodule "SwiftCharts"]
 	path = SwiftCharts
-	url = https://github.com/i-schuetz/SwiftCharts.git
+	url = https://github.sunflyer.cn/i-schuetz/SwiftCharts.git
 [submodule "dexcom-share-client-swift"]
 	path = dexcom-share-client-swift
-	url = https://github.com/LoopKit/dexcom-share-client-swift.git
+	url = https://github.sunflyer.cn/LoopKit/dexcom-share-client-swift.git
 	branch = dev
 [submodule "G4ShareSpy"]
 	path = G4ShareSpy
-	url = https://github.com/LoopKit/G4ShareSpy.git
+	url = https://github.sunflyer.cn/LoopKit/G4ShareSpy.git
 	branch = dev
 [submodule "rileylink_ios"]
 	path = rileylink_ios
-	url = https://github.com/ps2/rileylink_ios.git
+	url = https://github.sunflyer.cn/ps2/rileylink_ios.git
 	branch = dev
 [submodule "Amplitude-iOS"]
 	path = Amplitude-iOS
-	url = https://github.com/LoopKit/Amplitude-iOS.git
+	url = https://github.sunflyer.cn/LoopKit/Amplitude-iOS.git
 	branch = decreepify
 [submodule "MKRingProgressView"]
 	path = MKRingProgressView
-	url = https://github.com/LoopKit/MKRingProgressView.git
+	url = https://github.sunflyer.cn/LoopKit/MKRingProgressView.git
 [submodule "NightscoutAPIClient"]
 	path = NightscoutAPIClient
-	url = https://github.com/ivalkou/NightscoutAPIClient.git
+	url = https://github.sunflyer.cn/ivalkou/NightscoutAPIClient.git
 [submodule "bubble-client-swift"]
 	path = bubble-client-swift
-	url = https://github.com/bubbledevteam/bubble-client-swift
+	url = https://github.sunflyer.cn/bubbledevteam/bubble-client-swift
 [submodule "xdrip-client-swift"]
 	path = xdrip-client-swift
-	url = https://github.com/alekst1d/xdrip-client-swift
+	url = https://github.sunflyer.cn/alekst1d/xdrip-client-swift
